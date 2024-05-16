@@ -4,14 +4,11 @@
 | ------------- | ------------- |
 
 **languages and tools:**  
-<code><img height="20" src="https://raw.githubusercontent.com/rfyiamcool/golang_logo/3478773144ed1d8fe4081f205933752631529e9f/svg/golang_3.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?size=40"></code>
-<code><img height="20" src="https://github.com/dtm-labs.png?size=40"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png?size=48"></code>
-<code><img height="20" src="https://github.com/redis.png?size=40"></code>
-<code><img height="20" src="https://github.com/rabbitmq.png?size=40"></code>
-<code><img height="20" src="https://github.com/apache.png?size=40"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?size=48"></code>
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
 #### Top Repositories
 <a href="https://github.com/LaoTianXin/vue3_template">
