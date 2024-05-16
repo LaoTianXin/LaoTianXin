@@ -14,8 +14,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?size=48"></code>
 
 #### Top Repositories
-<a href="https://github.com/LaoTianXin/vue_template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LaoTianXin&repo=vue_template&theme=buefy" />
+<a href="https://github.com/LaoTianXin/vue3_template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LaoTianXin&repo=vue3_template&theme=buefy" />
 </a>
 <br />
 <br />
